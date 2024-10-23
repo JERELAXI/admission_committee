@@ -1,0 +1,2 @@
+customtkinter~=5.2.2
+mysql~=0.0.3
